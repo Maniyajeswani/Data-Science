@@ -1,8 +1,8 @@
-#  Practo Scraper Tool
-#### Description:
+#                                                        Practo Scraper Tool
+## Description:
 This  streamlit application designed to scrape data(gathering total number of doctors available on practo along with their profiles) from Practo website based on user selected location and  speciality via a dropdown menu, providing an efficient tool for health industry.
 
-#### Installation instructions:
+## Installation instructions:
 ### 1.Install python 
  -	Install python in your system from python.org.
  -	During installation, make sure ADD PYTHON TO PATH option is selected.
@@ -32,7 +32,7 @@ After installing, launching and accessing the web interface of the Streamlit app
 ### 4.	View Results:
 -	The application will display the scraped data based on your inputs.
 
-#### Output:
+## Output:
 After providing the city and selecting speciality from the dropdown menu , click on scrape button to begin data extraction process. The application will display the no. of doctors specializing in a particular field within specific location get displayed. Alongside this, you will able to see the detailed profiles of doctor including their name, experience, average ratings and links to their full profiles. This tool allows you to efficiently access the profiles of doctors specializing in a particular field within a particular location as listed on practo.
 
 
