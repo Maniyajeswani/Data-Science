@@ -12,8 +12,11 @@ This  streamlit application designed to scrape data(gathering total number of do
 -	Clone the repository by using git clone command along with the github project link. For ex: git clone github_project_link
 ### 3. Navigate into the Project Directory
 -	Now as the repository is cloned, navigate into project directory by the following command: cd repository name.
-### 4.Install the required modules and libraries
--	Now when you are navigated to project directory, run the following commands in order to install the required modules and libraries:
+### 4.Create a virtual environment
+- Now create a virtual environment with the command python -m venv virtual_environment_name.
+- Activate it by command:virtual_environment_name/scripts/activate
+### 5.Install the required modules and libraries
+-	Now when you are navigated to project directory and created a virtual environment, run the following commands in order to install the required modules and libraries:
 1.pip install streamlit
 2.pip install requests
 3.pip install bs4
