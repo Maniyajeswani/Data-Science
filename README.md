@@ -5,7 +5,7 @@ Description:
 This  streamlit application designed to scrape data(gathering total number of doctors available on practo along with their profiles) from Practo website based on user selected location and  speciality via a dropdown menu, providing an efficient tool for health industry.
 
 Installation instructions:
-1.Install python 
+###1.Install python 
  •	Install python in your system from python.org.
  •	During installation, make sure ADD PYTHON TO PATH option is selected.
    2.Clone Github Repository
