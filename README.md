@@ -1,7 +1,7 @@
 # Data-Science
-                                                   ##### Practo Scraper Tool
-
-Description:
+                                              
+#####                                                        Practo Scraper Tool
+#### Description:
 This  streamlit application designed to scrape data(gathering total number of doctors available on practo along with their profiles) from Practo website based on user selected location and  speciality via a dropdown menu, providing an efficient tool for health industry.
 
 #### Installation instructions:
@@ -16,10 +16,10 @@ This  streamlit application designed to scrape data(gathering total number of do
 -	Now as the repository is cloned, navigate into project directory by the following command: cd repository name.
 ### 4.Install the required modules and libraries
 -	Now when you are navigated to project directory, run the following commands in order to install the required modules and libraries:
-*	pip install streamlit
-*	pip install requests
-*	pip install bs4
-*	pip install pandas
+1.pip install streamlit
+2.pip install requests
+3.pip install bs4
+4.pip install pandas
 ### 5.Run the streamlit application:
 -	Start the streamlit application by running: streamlit run filename.py.
                               
