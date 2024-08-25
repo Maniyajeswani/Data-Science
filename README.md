@@ -21,7 +21,7 @@ This  streamlit application designed to scrape data(gathering total number of do
 ### 5.Run the streamlit application:
 -	Start the streamlit application by running: streamlit run filename.py.
                               
-#### Usage:
+## Usage:
 After installing, launching and accessing the web interface of the Streamlit application, follow these steps to use it effectively:
 ### 1.	Provide City Input:
 -	Type the name of the city where you want to find doctors.
