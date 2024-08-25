@@ -1,5 +1,5 @@
 # Data-Science
-                                                        Practo Scraper Tool
+                                                   ####Practo Scraper Tool
 
 Description:
 This  streamlit application designed to scrape data(gathering total number of doctors available on practo along with their profiles) from Practo website based on user selected location and  speciality via a dropdown menu, providing an efficient tool for health industry.
